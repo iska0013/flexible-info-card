@@ -1,5 +1,7 @@
 html {
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -13,9 +15,7 @@ html {
 @viewport { width: device-width; scale: 1; }
 
 body {
-  font-family: "Open Sans", sans-serif;
   margin: 0;
-  line-height: 1.5;
 }
 
 h2 {
