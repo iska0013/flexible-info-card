@@ -15,10 +15,12 @@ html {
 body {
   font-family: "Open Sans", sans-serif;
   margin: 0;
+  line-height: 1.5;
 }
 
 h2 {
   text-align: center;
+  margin: 1.5rem;
 }
 
 img {
