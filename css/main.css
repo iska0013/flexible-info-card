@@ -20,7 +20,7 @@ body {
 
 h2 {
   text-align: center;
-  margin: 1.5rem;
+  padding: 2rem;
 }
 
 img {
@@ -37,6 +37,7 @@ li {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin: 1.5rem;
 }
 
 hgroup {
