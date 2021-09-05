@@ -14,4 +14,18 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+ul {
+  padding: 0;
 }
